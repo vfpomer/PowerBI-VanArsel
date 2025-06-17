@@ -50,3 +50,5 @@ Gráfico de barras apiladas que compara ingresos por país y los siguientes grup
     Aunque sus competidores también están presentes en Australia y Japón, VanArsel mantiene una buena cuota de mercado en esos países.
 
     En mercados más pequeños (como Nigeria, Alemania y México), la diferencia entre fabricantes es menor.
+
+    🔗 Explora el dashboard completo aquí 👉 https://app.fabric.microsoft.com/groups/me/reports/f53969ec-40b3-427e-a057-54b75a1815db/f8f158e80204d88fe030?experience=fabric-developer
